@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ASL-PC</Machine>
+    <WindowsUser>stactics</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>dcf07230-4705-4f0b-8b6a-076393bc68ea</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\tetris_wp.exe">
+      <PackagePath>tetris_wp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\fonts\digital-7 %28italic%29.ttf">
+      <PackagePath>fonts\digital-7 %28italic%29.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\fonts\digital-7 %28mono%29.ttf">
+      <PackagePath>fonts\digital-7 %28mono%29.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\fonts\digital-7.ttf">
+      <PackagePath>fonts\digital-7.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\background.png">
+      <PackagePath>gfx\background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\back_menu_button.png">
+      <PackagePath>gfx\back_menu_button.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_buy.png">
+      <PackagePath>gfx\btn_buy.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_down_play.png">
+      <PackagePath>gfx\btn_down_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_left_play.png">
+      <PackagePath>gfx\btn_left_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_menu.png">
+      <PackagePath>gfx\btn_menu.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_play.png">
+      <PackagePath>gfx\btn_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_right_play.png">
+      <PackagePath>gfx\btn_right_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_rotate_play.png">
+      <PackagePath>gfx\btn_rotate_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\btn_up_play.png">
+      <PackagePath>gfx\btn_up_play.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\menu_background.png">
+      <PackagePath>gfx\menu_background.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\one_field_block.png">
+      <PackagePath>gfx\one_field_block.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\gfx\play_field.png">
+      <PackagePath>gfx\play_field.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\tetris_wp.xr.xml">
+      <PackagePath>tetris_wp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\stactics\Documents\%40Projects\Visual Studio\tetris_wp\tetris_wp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
